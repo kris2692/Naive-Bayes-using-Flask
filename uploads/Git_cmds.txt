@@ -1,0 +1,25 @@
+krish@LAPTOP-8F3RAHDS MINGW64 ~/Desktop/Slang-based-Cultural-origin (master)
+$ git add -A
+
+krish@LAPTOP-8F3RAHDS MINGW64 ~/Desktop/Slang-based-Cultural-origin (master)
+$ git commit -m "regex for url,emoticons,hashtag(not working)"
+[master eda315e] regex for url,emoticons,hashtag(not working)
+ 1 file changed, 28 insertions(+)
+
+krish@LAPTOP-8F3RAHDS MINGW64 ~/Desktop/Slang-based-Cultural-origin (master)
+$ git push
+Counting objects: 3, done.
+Delta compression using up to 8 threads.
+Compressing objects: 100% (3/3), done.
+Writing objects: 100% (3/3), 748 bytes | 0 bytes/s, done.
+Total 3 (delta 2), reused 0 (delta 0)
+remote: Resolving deltas: 100% (2/2), completed with 2 local objects.
+To https://github.com/dopeamine/Slang-based-Cultural-origin.git
+   4fd7c85..eda315e  master -> master
+"D:\Grand Theft Auto V installation\update\x64\data\New folder (p)"
+
+K1652727 
+23791
+Omega92
+Toshiba-followme@uncc.edu--print--cprint.uncc.edu
+258.3$ --sunny owes me + 355 rent for august month+5500 Rs flight ticket

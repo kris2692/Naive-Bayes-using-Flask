@@ -1,0 +1,22 @@
+body {
+    font-family: 'Mina', sans-serif;
+    background-image: url("Violet.jpg");
+	color: white;
+	text-align: center;
+	
+}
+
+.transparent{
+	background-image: Transparent;
+}
+
+.center {
+    margin: auto;
+
+}
+
+table
+{
+    width: 100px;
+    }
+

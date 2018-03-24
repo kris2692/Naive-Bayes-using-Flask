@@ -1,0 +1,95 @@
+Medical Data Analyst Specialist
+Deloitte US | Deloitte Consulting LLP
+Arlington, Virginia, United States.
+Requisition code: E18ROSCSPSMC41671-T
+
+Qualifications
+ 
+Required:
+Bachelor's degree and at least 3 years of technology consulting or other relevant industry experience
+Experience working independently with minimal supervision and guidance
+Strong problem solving and troubleshooting skills with experience exercising mature judgment
+Proven experience effectively prioritizing workload to meet deadlines and work objectives
+Demonstrated ability to write clearly, succinctly, and in a manner that appeals to a wide audience
+Proficiency in word processing, spreadsheet, and presentation creation tools, as well as Internet research tools
+Experience working directly with business users to gather requirements
+Experience drafting functional and technical specifications and documentation
+Familiarity with the software development lifecycle (SDLC)
+Exposure to any of the following Analytics and Information Management competencies –Data Management and Architecture, Performance Management, Information Delivery  and Advance Analytics
+Must be able to obtain and maintain required clearance for this role
+Must have experience in medical data analytics
+Must be able to commute to Silver Spring on a daily basis
+2+ years of SAS experience in a professional environment
+ 
+Preferred:
+Degree in computer science, information systems, or other technology-related field
+Prior professional services or federal consulting experience
+Professional experience with any of the following technologies:
+BI tools: SAP Business Objects, Cognos, OBIEE, SAS, Hyperion
+DW/ETL Tools: Informatica, ODI, SAP Data Services, SAP BW/HANA, Datastage
+EPM: Hyperion Essbase, Cognos Planning
+EDM: Data Modeling, Erwin, DBA
+MDM – Informatica
+Data Analytics: Big data, ZoomData, Hadoop, machine learning, text analytics, Tableau 
+
+--------------------------------------------------------------------------------------------------------------------------------------
+Junior Data Scientist
+Deloitte US | Deloitte Consulting LLP
+Arlington, Virginia, United States
+
+Requisition code: E18ROSCCONMC41563-T
+
+Qualifications
+ 
+Required:
+Bachelor's degree and at least 1 year of technology consulting or other relevant industry experience
+Proven ability to effectively prioritize workload and meet deadlines
+Experience crafting written communications that are clear, succinct and audience appropriate
+Proficiency in word processing, spreadsheet, and presentation creation tools, as well as Internet research tools
+Must be able to obtain and maintain required clearance for this role: Top Secret
+Experience in one of the following: R, Python, Java, or D3
+2+ years of experience in data analytics
+Good problem solving skills
+Knowledge of data transformation/conversion
+ 
+ 
+Preferred:
+Degree in computer science, information systems, or other technology-related field
+Prior professional services or federal consulting experience
+Professional experience with one or more of the following technologies:
+BI tools: SAP Business Objects, Cognos, OBIEE, SAS, Hyperion
+DW/ETL Tools: Informatica, ODI, SAP Data Services, SAP BW/HANA, Datastage
+EPM: Hyperion Essbase, Cognos Planning
+EDM: Data Modeling, Erwin, DBA
+MDM – Informatica
+Data Analytics: Big data, ZoomData, Hadoop, machine learning, text analytics, Tableau
+Experience with machine learning preferred but not required
+
+--------------------------------------------------------------------------------------------------------------------------------------
+Data Analytics Consultant
+Deloitte US | Deloitte Consulting LLP
+Arlington, Virginia, United States
+
+Requisition code: E18ROSCCONMC002-T
+
+Qualifications
+ 
+Required:
+Bachelor's degree and at least 1 year of technology consulting or other relevant industry experience
+Proven ability to effectively prioritize workload and meet deadlines
+Experience crafting written communications that are clear, succinct and audience appropriate
+Proficiency in word processing, spreadsheet, and presentation creation tools, as well as Internet research tools
+Must be able to obtain and maintain required clearance for this role
+2 or more years of professional experience in analytics tools besides Excel (tableau, SAS, SQL, Python, R, etc.)
+Able to work directly with clients to explain how analytics will help solve their problems
+Preferred:
+
+Degree in computer science, information systems, or other technology-related field
+Prior professional services or federal consulting experience
+Professional experience with one or more of the following technologies:
+BI tools: SAP Business Objects, Cognos, OBIEE, SAS, Hyperion
+DW/ETL Tools: Informatica, ODI, SAP Data Services, SAP BW/HANA, Datastage
+EPM: Hyperion Essbase, Cognos Planning
+EDM: Data Modeling, Erwin, DBA
+MDM – Informatica
+Data Analytics: Big data, ZoomData, Hadoop, machine learning, text analytics, Tableau 
